@@ -1,6 +1,11 @@
 # Project made in IOT class
 # Spring 2020
+'''
+Author:         Fredy Lopez
+Type:           Python
 
+this script opens a window that has a turtle run in the shape of my initials and read the temperature of a simulated thermomitor
+'''
 import turtle
 import sys
 
