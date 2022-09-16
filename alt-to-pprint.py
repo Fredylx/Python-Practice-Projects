@@ -1,4 +1,8 @@
 #The standard string repr for dicts is hard to read:
+'''
+Py Tricks
+Title: alt to Pretty Print
+'''
 		>>> my_mapping = {'a': 23, 'b': 42, 'c': 0xc0ffee}
 		>>> my_mapping
 		{'b': 42, 'c': 12648430. 'a': 23} # 😞
