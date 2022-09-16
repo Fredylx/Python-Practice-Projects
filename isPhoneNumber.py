@@ -4,6 +4,7 @@ Title:          Is a phone number?
 
 This script reads an input and suggesting is it is a possible phone number of not
 '''
+
 def isPhoneNumber(text):
     if len(text) != 12:
         return False
