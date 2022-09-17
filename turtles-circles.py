@@ -1,3 +1,14 @@
+'''
+Creator:         Fredy H Lopez
+Title:           Turtle Circles
+
+
+
+------------------------------------------ Purpose --------------------------------------------------
+The purpose of this is to expore what can be done with turtles. This is just a colorful combination
+of circles with a black background. The speed of the turtle can be changed.
+'''
+
 
 import turtle
 turtle.bgcolor("black")
