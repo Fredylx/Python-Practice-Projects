@@ -7,7 +7,10 @@ Type:           Python
 
 ---------------------------------------------- Purpose --------------------------------------------------
 this script opens a window that has a turtle run in the shape of my initials and read the temperature of a simulated thermomitor
-used as an example of my coding skills
+this is also protected with a password, missing is the encryption needed for a truly secure process & the password is visable in the code.
+
+used as one example of my coding skills
+
 '''
 import turtle
 import sys
