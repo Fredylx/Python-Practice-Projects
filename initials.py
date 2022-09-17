@@ -4,6 +4,8 @@
 Author:         Fredy Lopez
 Type:           Python
 
+
+---------------------------------------------- Purpose --------------------------------------------------
 this script opens a window that has a turtle run in the shape of my initials and read the temperature of a simulated thermomitor
 used as an example of my coding skills
 '''
