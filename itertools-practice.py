@@ -1,4 +1,7 @@
-
+'''
+Title:          Itertools Practice
+Lang:           Python
+'''
 import itertools
 
 counter = itertools.count(start=5, step=-2.5)
