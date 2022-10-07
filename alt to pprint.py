@@ -1,5 +1,6 @@
-#The standard string repr for dicts is hard to read:
 '''
+# The standard string repr for dicts is hard to read:
+
 Py Tricks
 Title: alt to Pretty Print
 '''
